@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst1/sandbox/yepr.examples.subst1.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst1/yepr.examples.subst1.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst2/sandbox/yepr.examples.subst2.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst2/yepr.examples.subst2.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst3/sandbox/yepr.examples.subst3.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst3/yepr.examples.subst3.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst4/sandbox/yepr.examples.subst4.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst4/yepr.examples.subst4.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst5/sandbox/yepr.examples.subst5.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst5/yepr.examples.subst5.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst6/sandbox/yepr.examples.subst6.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst6/yepr.examples.subst6.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst7/sandbox/yepr.examples.subst7.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst7/yepr.examples.subst7.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst8/sandbox/yepr.examples.subst8.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst8/yepr.examples.subst8.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst9/sandbox/yepr.examples.subst9.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.subst9/yepr.examples.subst9.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf01/sandbox/yepr.examples.transf01.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf01/yepr.examples.transf01.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf02/sandbox/yepr.examples.transf02.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf02/yepr.examples.transf02.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf03/sandbox/yepr.examples.transf03.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf03/yepr.examples.transf03.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf04/sandbox/yepr.examples.transf04.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf04/yepr.examples.transf04.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf05/sandbox/yepr.examples.transf05.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf05/yepr.examples.transf05.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf06/sandbox/yepr.examples.transf06.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf06/yepr.examples.transf06.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf07/sandbox/yepr.examples.transf07.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf07/yepr.examples.transf07.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf08/sandbox/yepr.examples.transf08.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf08/yepr.examples.transf08.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf09/sandbox/yepr.examples.transf09.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf09/yepr.examples.transf09.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf10/sandbox/yepr.examples.transf10.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.examples.transf10/yepr.examples.transf10.mpl" folder="" />
+    </projectModules>
+  </component>
+</project>
