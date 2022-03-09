@@ -28,7 +28,7 @@ Language jetbrains.mps.lang.editor.menus.extras contains adapters to include var
 13. plugin Action – wraps a plugin action ActionDeclaration from jetbrains.mps.lang.plugin.
 
 
-##transf01: action 
+## transf01: action 
 A simple menu item specifying an action to be performed, its corresponding menu text and applicability.
 
 Example side-transform -> action in [Václav's video on transformation menu language](https://www.youtube.com/watch?v=mK40e7bde_Y). Code in Kaja Robot Language example: append a "not" in front of a LogicalExpression.
@@ -39,7 +39,7 @@ Other examples in same video (code also in Kaja Robot Language example) with thi
 
 In [Kolja's Heavy Meta video 3: Basic Editors](https://heavymeta.tv/) there is an example right transformation for "+", added to the right of a NumberLiteral. Code [https://github.com/coolya/basic-lang/tree/episode/3](https://github.com/coolya/basic-lang/tree/episode/3).
 
-##transf02: group
+## transf02: group
 A collection of menu items. Beyond these items a group may define one or more variables that are then shared by all actions within the group to avoid repetitive computation. Additionally, a group holds a condition that indicates when the actions in the group should be made available to the user.
 
         tip
@@ -49,37 +49,37 @@ A collection of menu items. Beyond these items a group may define one or more va
         If you want to protect variable computation with a condition, simply wrap the group in another group. The outer group's condition will protect the inner group's variables from unnecessary computation.
 
 
-##tranf03: include
+## tranf03: include
 Include a specific default or named transformation menu (together with its contributions, if any). Inclusion cycles are detected at runtime and an error message is produced.
 
 Example side-transform -> include at end of [Václav's video on transformation menu language](https://www.youtube.com/watch?v=mK40e7bde_Y). Code in Kaja Robot Language example: the side transformation to add "and" or "or" to a logical expression also has to be done at the right side of a Direction (whose parent is a LogicalExpression). It is done by including the transformation menu for the parent if the parent of that Direction is a LogicalExpression.
 
-##transf04: include default property menu
+## transf04: include default property menu
 All the possible values of the specified property
 
 
-##transf05: include default reference menu
+## transf05: include default reference menu
 All the target nodes from the scope of the specific reference
 
 
-##transf06: include substitute menu
+## transf06: include substitute menu
 Include a default or named substitute menu to use as part of this menu.
 
 
-##transf07: parametrized
+## transf07: parametrized
 An action that is parametrized with multiple values.
 
 Example side-transform -> parametrized action in [Václav's video on transformation menu language](https://www.youtube.com/watch?v=mK40e7bde_Y). Code in Kaja Robot Language example: append a "and" or "or" right or left of a LogicalExpression. Contribution transformation to the used KajaAndOr-language.
 
 
-##transf08: submenu
+## transf08: submenu
 A submenu containing further parts.
 
 
-##transf09: superconcepts menu
+## transf09: superconcepts menu
 Includes the default menus of the superconcepts of the applicable concept since these are not included by default.
 
 
-##transf10: wrap substitute menu
+## transf10: wrap substitute menu
 Wraps a specified concept using the provided handler
 

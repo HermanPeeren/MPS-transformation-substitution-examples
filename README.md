@@ -4,5 +4,5 @@ Examples of al the different possibilities of transformation menus and substitut
 See:
 * [options for substitute menu](doc/MPS-substitutions.md)
 * [options for transformation menu](doc/MPS-transformations.md)
-* [cookbook: recipies how to accomplissh things with substitute and transformation menus](doc/MPS-substitutions-transformations-COOKBOOK)
+* [cookbook: recipies how to accomplish things with substitute and transformation menus](doc/MPS-substitutions-transformations-COOKBOOK.md)
 

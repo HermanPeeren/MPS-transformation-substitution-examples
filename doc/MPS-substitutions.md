@@ -15,39 +15,39 @@
 9. wrap substitute menu - wrap a specified concept in another substitute menu, using the provided handler to customise its behaviour
 
 
-##subst1: concepts list
+## subst1: concepts list
 Add a collection of simple actions for specified concepts
 
 
-##subst2: group
+## subst2: group
 Add a composite part which can specify variables, if a condition is met
 
 
-##subst3: include
+## subst3: include
 Include another substitute menu
 
 
-##subst4: parameterized
+## subst4: parameterized
 Add a parametrised substitute action
 
 
-##subst5: reference actions
+## subst5: reference actions
 Include and customise the appearance of the possible targets of a reference
 
 
-##subst6: simple concept action
+## subst6: simple concept action
 Create a new instance of the specified concept
 
 
-##subst7: subconcepts menu
+## subst7: subconcepts menu
 Include all subconcepts of the concept
 
 
-##subst8: substitute action
+## subst8: substitute action
 Add a single customisable substitute action
 
 
-##subst9: wrap substitute menu
+## subst9: wrap substitute menu
 Wrap a specified concept in another substitute menu, using the provided handler to customise its behaviour.
 
 In [Kolja's Heavy Meta video 3: Basic Editors](https://heavymeta.tv/), code [https://github.com/coolya/basic-lang/tree/episode/3](https://github.com/coolya/basic-lang/tree/episode/3) there are 2 examples of a wrap substitute menu:
